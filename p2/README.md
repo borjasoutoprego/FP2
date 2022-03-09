@@ -25,8 +25,7 @@ Se recomienda seguir un desarrollo incremental:
 200, z = 400; p=700 con una distribución uniforme entre todas las edades.
 2. Se amplían los experimentos con diferentes valores para los parámetros. Se puede
 suponer que la población se distribuye por edad según la actual en Galicia 
-[](https://www.ige.eu/web/mostrar_actividade_estatistica.jsp?idioma=gl&codigo=02010
-01006).
+https://www.ige.eu/web/mostrar_actividade_estatistica.jsp?idioma=gl&codigo=02010.
 3. Se amplía considerando más marcas de vacunas con su correspondiente rango de
 edad recomendado. Un experimento interesante sería replicar los experimentos del
 paso 2 para ver si, teniendo el mismo número total de dosis pero aumentando las
